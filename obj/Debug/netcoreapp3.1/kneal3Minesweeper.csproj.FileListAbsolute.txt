@@ -1,0 +1,17 @@
+C:\Users\admin1\source\repos\kneal3Minesweeper\bin\Debug\netcoreapp3.1\kneal3Minesweeper.exe
+C:\Users\admin1\source\repos\kneal3Minesweeper\bin\Debug\netcoreapp3.1\kneal3Minesweeper.deps.json
+C:\Users\admin1\source\repos\kneal3Minesweeper\bin\Debug\netcoreapp3.1\kneal3Minesweeper.runtimeconfig.json
+C:\Users\admin1\source\repos\kneal3Minesweeper\bin\Debug\netcoreapp3.1\kneal3Minesweeper.runtimeconfig.dev.json
+C:\Users\admin1\source\repos\kneal3Minesweeper\bin\Debug\netcoreapp3.1\kneal3Minesweeper.dll
+C:\Users\admin1\source\repos\kneal3Minesweeper\bin\Debug\netcoreapp3.1\kneal3Minesweeper.pdb
+C:\Users\admin1\source\repos\kneal3Minesweeper\obj\Debug\netcoreapp3.1\kneal3Minesweeper.csprojAssemblyReference.cache
+C:\Users\admin1\source\repos\kneal3Minesweeper\obj\Debug\netcoreapp3.1\kneal3Minesweeper.csproj.GenerateResource.cache
+C:\Users\admin1\source\repos\kneal3Minesweeper\obj\Debug\netcoreapp3.1\kneal3Minesweeper.AssemblyInfoInputs.cache
+C:\Users\admin1\source\repos\kneal3Minesweeper\obj\Debug\netcoreapp3.1\kneal3Minesweeper.AssemblyInfo.cs
+C:\Users\admin1\source\repos\kneal3Minesweeper\obj\Debug\netcoreapp3.1\kneal3Minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\admin1\source\repos\kneal3Minesweeper\obj\Debug\netcoreapp3.1\kneal3Minesweeper.dll
+C:\Users\admin1\source\repos\kneal3Minesweeper\obj\Debug\netcoreapp3.1\kneal3Minesweeper.pdb
+C:\Users\admin1\source\repos\kneal3Minesweeper\obj\Debug\netcoreapp3.1\kneal3Minesweeper.genruntimeconfig.cache
+C:\Users\admin1\source\repos\kneal3Minesweeper\obj\Debug\netcoreapp3.1\kneal3Minesweeper.Cell.resources
+C:\Users\admin1\source\repos\kneal3Minesweeper\obj\Debug\netcoreapp3.1\kneal3Minesweeper.MinesweeperForm.resources
+C:\Users\admin1\source\repos\kneal3Minesweeper\obj\Debug\netcoreapp3.1\kneal3Minesweeper.MenuStrip.resources
